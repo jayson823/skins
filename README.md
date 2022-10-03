@@ -12,3 +12,11 @@
 
 # [Prawilnosc vDinoxe](https://www.mediafire.com/file/n26302eifpqglxh/Prawilnosc_vDinoxe.osk/file)
 ![image](https://user-images.githubusercontent.com/114896724/193506445-6b1ca2c5-b192-4a37-bd8e-9a87e6ee82e0.png)
+
+
+# [Aireused] (https://www.mediafire.com/file/81r9zou9fp1re2a/%257B_Aireused_%257D.osk/file)
+![image](https://user-images.githubusercontent.com/114896724/193508084-a9a69dd5-ee94-4266-94a4-00885a552032.png)
+
+# [KamuiMix] (https://www.mediafire.com/file/636bx90qch3nz2c/%257B_Kamui_Mix_%257D.osk/file)
+![image](https://user-images.githubusercontent.com/114896724/193508534-c677161d-4b09-4984-8cc0-f2b3f84cf5b6.png)
+
