@@ -15,5 +15,10 @@
 # [Azerinotko](https://www.mediafire.com/file/45yj8cij2681q9h/azerinotko.osk/file)
 ![image](https://user-images.githubusercontent.com/114896724/231703298-6b299064-3e2b-4437-a358-9773b0c16057.png)
 
+# [asada](https://www.mediafire.com/file/uf8kn7inusbwe1s/asada.osk/file)
+![image](https://user-images.githubusercontent.com/114896724/231750947-35ff85c9-5d90-4b6a-9057-82c71dfbb2ef.png)
+
+
+
 
 
