@@ -1,4 +1,4 @@
-# skins# 
+# skins
 
 # [Forum remake](https://www.mediafire.com/file/k05vrmcfca8hd2v/forum_remake.osk/file)
 ![image](https://user-images.githubusercontent.com/114896724/231696036-642ac8d0-3e39-44a3-b948-24218e9542fe.png)
@@ -6,20 +6,6 @@
 
 # [Xilver Gayz](https://www.mediafire.com/file/4q1hwdgu8793e4v/xilver_gayz.osk/file)
 ![image](https://user-images.githubusercontent.com/114896724/231697689-8140ceee-807e-4c83-9946-ff96aa0851e0.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # [Metanoia](https://www.mediafire.com/file/6bpm5u0liadn5mv/%257B_metanoia_%257D.osk/file) 
