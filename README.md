@@ -1,4 +1,6 @@
 # skins
+# [Walnut](https://www.mediafire.com/file/kqakpjron3b02mz/walnut.osk/file)
+![image](https://user-images.githubusercontent.com/114896724/231947417-4300cc5e-3ebc-4232-8a8a-bfa11b4b5e63.png)
 
 # [Forum remake](https://www.mediafire.com/file/k05vrmcfca8hd2v/forum_remake.osk/file)
 ![image](https://user-images.githubusercontent.com/114896724/231696036-642ac8d0-3e39-44a3-b948-24218e9542fe.png)
