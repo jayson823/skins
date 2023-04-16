@@ -1,6 +1,6 @@
 # skins
-# [Walnut](https://www.mediafire.com/file/kqakpjron3b02mz/walnut.osk/file)
-![image](https://user-images.githubusercontent.com/114896724/231947417-4300cc5e-3ebc-4232-8a8a-bfa11b4b5e63.png)
+# [Best Skin](https://www.mediafire.com/file/ll24mon79z210ol/best_skin.osk/file)
+![image](https://user-images.githubusercontent.com/114896724/232324414-d7fba377-831b-40d6-8963-675e72eddfa6.png)
 
 # [Forum remake](https://www.mediafire.com/file/k05vrmcfca8hd2v/forum_remake.osk/file)
 ![image](https://user-images.githubusercontent.com/114896724/231696036-642ac8d0-3e39-44a3-b948-24218e9542fe.png)
