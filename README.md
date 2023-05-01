@@ -1,4 +1,8 @@
 # skins
+#[Kancolle](https://www.mediafire.com/file/wzeam2s65fv2qqv/kancolle.osk/file)
+![image](https://user-images.githubusercontent.com/114896724/235419955-233dff44-81dc-4f82-9983-45777a8491e2.png)
+
+
 # [Best Skin](https://www.mediafire.com/file/ll24mon79z210ol/best_skin.osk/file)
 ![image](https://user-images.githubusercontent.com/114896724/232324414-d7fba377-831b-40d6-8963-675e72eddfa6.png)
 
