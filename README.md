@@ -1,5 +1,5 @@
 # skins
-#[Kancolle](https://www.mediafire.com/file/wzeam2s65fv2qqv/kancolle.osk/file)
+# [Kancolle](https://www.mediafire.com/file/wzeam2s65fv2qqv/kancolle.osk/file)
 ![image](https://user-images.githubusercontent.com/114896724/235419955-233dff44-81dc-4f82-9983-45777a8491e2.png)
 
 
