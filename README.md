@@ -1,6 +1,6 @@
 # skins
 
-[anothermonkoedit](https://www.mediafire.com/file/osegk0aiymtthkn/anothermonkoedit.osk/file)
+# [anothermonkoedit](https://www.mediafire.com/file/osegk0aiymtthkn/anothermonkoedit.osk/file)
 ![image](https://github.com/jayson823/skins/assets/114896724/e482efa2-3c61-4438-8377-83453a25f096)
 
 # [malistekkitowhtvr](https://www.mediafire.com/file/o4waxuxr7xu1a63/tekkitomaliszwhtvr.osk/file)
