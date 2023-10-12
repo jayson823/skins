@@ -1,11 +1,13 @@
 # skins
+
+[anothermonkoedit](https://www.mediafire.com/file/osegk0aiymtthkn/anothermonkoedit.osk/file)
+![image](https://github.com/jayson823/skins/assets/114896724/e482efa2-3c61-4438-8377-83453a25f096)
+
 # [malistekkitowhtvr](https://www.mediafire.com/file/o4waxuxr7xu1a63/tekkitomaliszwhtvr.osk/file)
 ![image](https://github.com/jayson823/skins/assets/114896724/a1f0e93e-96d6-4d82-ae94-6c621e0f71ef)
 
-
 # [Kancolle](https://www.mediafire.com/file/wzeam2s65fv2qqv/kancolle.osk/file)
 ![image](https://user-images.githubusercontent.com/114896724/235419955-233dff44-81dc-4f82-9983-45777a8491e2.png)
-
 
 # [Best Skin](https://www.mediafire.com/file/ll24mon79z210ol/best_skin.osk/file)
 ![image](https://user-images.githubusercontent.com/114896724/232324414-d7fba377-831b-40d6-8963-675e72eddfa6.png)
