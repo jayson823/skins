@@ -1,5 +1,11 @@
 # skins
 
+# [almost recia](https://www.mediafire.com/file/yyi5vjhe6oega62/almost_recia.osk/file)
+![image](https://github.com/jayson823/skins/assets/114896724/8342c9c5-f695-4b4d-8f1a-84b824055a0f)
+
+# [jayzerg](https://www.mediafire.com/file/v0jav1mlebv0vwh/jayzerg.osk/file)
+![image](https://github.com/jayson823/skins/assets/114896724/ab77b35a-1efb-4c15-b512-81c0c68f1dbb)
+
 # [anothermonkoedit](https://www.mediafire.com/file/osegk0aiymtthkn/anothermonkoedit.osk/file)
 ![image](https://github.com/jayson823/skins/assets/114896724/e482efa2-3c61-4438-8377-83453a25f096)
 
