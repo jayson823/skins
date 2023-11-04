@@ -1,4 +1,6 @@
 # skins
+# [jayzerinotko](https://www.mediafire.com/file/85q6k53vqb2v9gi/jayzerinotko.osk/file)
+![image](https://github.com/jayson823/skins/assets/114896724/377c98a8-d0ed-47cb-b92f-92fc1589e163)
 
 # [almost recia](https://www.mediafire.com/file/yyi5vjhe6oega62/almost_recia.osk/file)
 ![image](https://github.com/jayson823/skins/assets/114896724/8342c9c5-f695-4b4d-8f1a-84b824055a0f)
