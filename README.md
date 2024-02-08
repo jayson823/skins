@@ -1,4 +1,7 @@
 # skins
+# [jaysn1](https://www.mediafire.com/file/xl7yewexjy29trw/jaysn1.osk/file) 
+![image](https://github.com/jayson823/skins/assets/114896724/c9bd28f4-8d8d-4d62-b0c3-eee17a1d24a3)
+
 # [bialy](https://www.mediafire.com/file/f0aeb6584dh985v/bialy.osk/file) 
 ![image](https://github.com/jayson823/skins/assets/114896724/9e3fc258-9c44-4118-b68a-4b7edb32c3f5)
 
