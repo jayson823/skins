@@ -1,6 +1,6 @@
 # skins
-# [jaysn1](https://www.mediafire.com/file/xl7yewexjy29trw/jaysn1.osk/file) 
-![image](https://github.com/jayson823/skins/assets/114896724/c9bd28f4-8d8d-4d62-b0c3-eee17a1d24a3)
+#[jayzerinotko dt](https://www.mediafire.com/file/781x6p3oy3u1a1j/jayzerinotko_dt.osk/file)
+![image](https://github.com/jayson823/skins/assets/114896724/a9952ce0-5f60-484f-8da7-b906f218770a)
 
 # [bialy](https://www.mediafire.com/file/f0aeb6584dh985v/bialy.osk/file) 
 ![image](https://github.com/jayson823/skins/assets/114896724/9e3fc258-9c44-4118-b68a-4b7edb32c3f5)
