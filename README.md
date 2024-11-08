@@ -1,4 +1,8 @@
 # skins
+
+# [bialy v2](https://www.mediafire.com/file/mee777fosh2sqfn/bialy_v2.osk/file)
+![image](https://github.com/user-attachments/assets/47f199bc-164d-4653-9df4-ad81fd189e93)
+
 # [jayzerinotko dt](https://www.mediafire.com/file/781x6p3oy3u1a1j/jayzerinotko_dt.osk/file)
 ![image](https://github.com/jayson823/skins/assets/114896724/a9952ce0-5f60-484f-8da7-b906f218770a)
 
