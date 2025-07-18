@@ -22,10 +22,7 @@
 # [jayzerg](https://www.mediafire.com/file/v0jav1mlebv0vwh/jayzerg.osk/file)
 ![image](https://github.com/jayson823/skins/assets/114896724/ab77b35a-1efb-4c15-b512-81c0c68f1dbb)
 
-# [anothermonkoedit](https://www.mediafire.com/file/osegk0aiymtthkn/anothermonkoedit.osk/file)
-![image](https://github.com/jayson823/skins/assets/114896724/e482efa2-3c61-4438-8377-83453a25f096)
-
-# [malistekkitowhtvr](https://www.mediafire.com/file/o4waxuxr7xu1a63/tekkitomaliszwhtvr.osk/file)
+# [malistekkitowhtvr](https://www.mediafire.com/file/y01l5zh890f9hot/malistekkitowhtvr.osk/file) 
 ![image](https://github.com/jayson823/skins/assets/114896724/a1f0e93e-96d6-4d82-ae94-6c621e0f71ef)
 
 # [Kancolle](https://www.mediafire.com/file/wzeam2s65fv2qqv/kancolle.osk/file)
